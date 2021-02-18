@@ -4,6 +4,7 @@ Fetches the temperature, utilization, and power of your CPU and displays it on a
 You will need:
 
 1x Arduino (any model that can be plugged in via USB)
+
 1x SSD1306 0.96 inch I2C OLED
 
 
